@@ -1,0 +1,113 @@
+
+header
+{
+
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+.roboto-Nyga{
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: normal;
+}
+
+body {
+    background-color: deeppink;
+    color: pink;
+    font-style: normal
+}
+
+h1 {
+    font-size: 55px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 35px;
+    
+}
+#Test {
+    text-align: center;
+    right: 40px;
+}
+
+#femboj {
+    text-align: center;
+}
+
+#zdjencie {
+    margin-top: -550px;
+    margin-left: 20px;
+}
+
+#tytul {
+
+    margin-left: 20px;
+}
+
+#tytul2 {
+    margin-left: 17px;
+}
+
+#HitlerButton {
+    margin-left: 680px;
+    background-color: lightpink;
+    color: hotpink;
+    margin-top: -30px
+}
+
+
+
+
+#FembojFoto {
+    margin-top: -620px ;
+    margin-left: 35px ;
+}
+
+
+
+
+
+#Test1 {
+    text-align: center;
+    right: 40px;
+    margin-top: -9px;
+}
+
+
+
+femboymikke {
+    margin-top: -100px;
+   
+}
+
+
+#Test12 {
+    margin-left: 950px;
+    margin-top: 200px;
+}
+
+#femboj12 {
+    
+    margin-left: 950px;
+}
+
+
+#KorwinPhoto {
+    margin-top: -300px;
+}
+
+
+#powrut {
+    background-color: deeppink;
+}

@@ -46,7 +46,7 @@ h2 {
 }
 
 #zdjencie {
-    margin-top: -550px;
+    margin-top: -400px;
     margin-left: 20px;
 }
 
@@ -60,18 +60,17 @@ h2 {
 }
 
 #HitlerButton {
-    margin-left: 680px;
+    margin: 0 auto;
     background-color: lightpink;
     color: hotpink;
-    margin-top: -30px
 }
 
 
 
 
 #FembojFoto {
-    margin-top: -620px ;
-    margin-left: 35px ;
+    float: right;
+    margin-top: -410px;
 }
 
 
@@ -110,4 +109,9 @@ femboymikke {
 
 #powrut {
     background-color: deeppink;
+
+}
+
+#razdwatrzy {
+    margin: 0 auto;
 }
